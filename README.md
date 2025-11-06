@@ -1,5 +1,4 @@
 # Machine Learning Project 2
-**Group 26 – Jodi Barnes & Lauren Moffett**
 
 ## About
 This project implements a **Multilayer Perceptron (MLP)** model using Python to perform supervised learning and generate predictions for the dataset.
@@ -65,5 +64,4 @@ pip install -r requirements.txt
 
 ## Authors  
 **Group 26**
-– Jodi Barnes
-– Lauren Moffett  
+– Jodi Barnes & Lauren Moffett  
